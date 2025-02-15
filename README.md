@@ -3,5 +3,5 @@
  1. **Delhivery_Business: Feature Engineering**
  2. **Jamboree_Education: Linear Regression**
  3. **LoanTap_Business: Logistic Regression**
- 4. **OLA_Business: Bagging and Boosting**
+ 4. **OLA_Business: Ensemble Techniques-(Bagging and Boosting)**
 
